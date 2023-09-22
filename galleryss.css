@@ -1,0 +1,29 @@
+body 
+  {
+   background-color: rgb(21, 0, 255);
+   margin: 0 10%;
+   font-family: monospace;
+   color:#dd8408;
+  }
+  h1
+  {
+    font-size: 7em;
+  }
+  p
+  {
+font-size: 3em;
+
+  }
+  p1
+  {
+    float:right;
+    margin-top: 2em;
+    clear: left;
+    font-size: 3em;
+  }
+  img[alt*="custom work"] 
+  { 
+    float: left;
+    shape-outside: circle(125em);
+    
+  }

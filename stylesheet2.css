@@ -1,0 +1,39 @@
+body
+{
+  background-color: #da7624;
+  font-family: monospace;
+}
+
+
+.register-photo 
+{
+  padding: 80px 0
+}
+  
+  .register-photo .image-holder 
+  {
+  display: table-cell;
+  width: auto;
+  background: url(email.png);
+  background-size: cover
+  }
+  
+  .register-photo .form-container 
+  {
+  display: table;
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1)
+  }
+  
+  .register-photo form 
+  {
+  display: table-cell;
+  width: 400px;
+  background-color: #14aab8;
+  padding: 40px 60px;
+  color: #000000
+  }
+  
+  

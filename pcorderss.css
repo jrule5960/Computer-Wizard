@@ -1,0 +1,12 @@
+
+  ol, ul 
+  { 
+  list-style-type: none;
+  }
+      
+  body 
+  {
+   background-color: #da7624;
+   margin: 0 10%;
+   font-family: monospace;
+  }

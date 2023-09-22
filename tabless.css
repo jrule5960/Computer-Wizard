@@ -1,0 +1,7 @@
+body
+    {
+      background-color: rgb(21, 0, 255);
+      color:#dd8408;
+    }
+  td, th { border: 1px solid #CCC; }
+  table { border: 1px solid black; }
